@@ -1,14 +1,4 @@
 {
-  "policy": {
-    "levels": {
-      "0": {
-        "statsUserUplink": true,
-        "statsUserDownlink": true,
-        "statsUserOnline": true
-      }
-    }
-  },
-  "stats": {},
   "inbounds": [
     {
       "port": 443,
